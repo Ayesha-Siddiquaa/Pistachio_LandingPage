@@ -7,7 +7,7 @@ This is a landing page for a pistachio-themed website. It showcases information 
 - [Features](#features)
 - [How to Use](#how-to-use)
 - [Dependencies](#dependencies)
-- - [Sample Output](#Sample-Output)
+- [Sample Output](#Sample-Output)
 - [Credits](#credits)
 
 ## Overview
