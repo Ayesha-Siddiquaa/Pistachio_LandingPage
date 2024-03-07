@@ -7,8 +7,8 @@ This is a landing page for a pistachio-themed website. It showcases information 
 - [Features](#features)
 - [How to Use](#how-to-use)
 - [Dependencies](#dependencies)
+- - [Sample Output](#Sample-Output)
 - [Credits](#credits)
-- [Sample Output](# Sample-Output)
 
 ## Overview
 This landing page provides information about pistachios, including their nutritional value, health benefits, and culinary uses. It also features a product showcase and links to additional resources.
@@ -29,8 +29,7 @@ This landing page provides information about pistachios, including their nutriti
 - Font Awesome - for social media icons
 
 ## Sample Output
-![Pistachio Landing Page](sample_output.png)
-
+![Pistachio Landing Page](https://github.com/Ayesha-Siddiquaa/Pistachio_LandingPage/blob/main/webpage.png)
 
 ## Credits
 - Images: Images used in this project are sourced from [Unsplash](https://unsplash.com/) and [Font Awesome](https://fontawesome.com/).
